@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2266BB</color>
+    <color name="colorPrimaryDark">#2255AA</color>
+    <color name="colorAccent">#0277BD</color>
+
+    <color name="colorSearchButton">#0277BD</color>
+    <color name="text_color_repository">#666666</color>
+    <color name="text_color_language">#999999</color>
+    <color name="text_color_empty_repository">#888888</color>
+    <color name="edit_text_underline_color">#2277AA</color>
+
+</resources>
